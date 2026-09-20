@@ -1,5 +1,7 @@
 # Articles Collection
 
+English translations of articles from [ruanyf/articles](https://github.com/ruanyf/articles) (Ruan Yifeng's blog).
+
 ## September 2026
 
 - [Education Is the Overlooked AI Product Opportunity](2026/ar/20260914-doubao-study.md)
