@@ -2,8 +2,15 @@
 
 English translations of articles from [ruanyf/articles](https://github.com/ruanyf/articles) (Ruan Yifeng's blog).
 
+## October 2026
+
+- [Tech Enthusiast Weekly (Issue 440)](2026/we/20261015-tech-enthusiast-weekly-issue-440.md)
+- [Tech Enthusiast Weekly (Issue 439)](2026/we/20261008-tech-enthusiast-weekly-issue-439.md)
+- [Is the IDE Dead? Starting from TRAE's Two-in-One Merge](2026/ar/20261006-trae-agent.md)
+
 ## September 2026
 
+- [Mysterious Model "Space Bunny" Tops OpenRouter](2026/ar/20260927-minimax.md)
 - [Education Is the Overlooked AI Product Opportunity](2026/ar/20260914-doubao-study.md)
 - [I Used Doubao Seed 2.1 Pro to Generate a Digital West Lake](2026/ar/20260906-seed-evolving.md)
 - [Deep Dive into "Doubao Work"](2026/ar/20260905-doubao-work.md)
